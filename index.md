@@ -1,3 +1,5 @@
+% Hello
+
 # Hello
 
 I'm a software engineer specializing in all things JavaScript. I discovered software while working in the wine industry  to  where I built an ethanol prediction model.
@@ -7,6 +9,12 @@ Shortly after, I left wine to chase my dream of being a musician. However I cont
 [GitHub](http://github.com/rgruesbeck/projects),
 [LinkedIn](https://www.linkedin.com/in/ron-gruesbeck/),
 [Instagram](https://www.instagram.com/kybrdct),
-[Hear](https://www.youtube.com/watch?v=mq5n-WyPh3A)
-[my](https://www.youtube.com/watch?v=O8TaunWUPYA)
-[music](https://www.youtube.com/watch?v=bzTLttOCCj0).
+[Hear](https://youtu.be/mq5n-WyPh3A)
+[my](https://youtu.be/O8TaunWUPYA)
+[music](https://youtu.be/bzTLttOCCj0?t=220).
+
+<style type="text/css">
+.title {
+	display: none;
+}
+</style>
